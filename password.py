@@ -16,6 +16,7 @@ while i < 3 :
 		i += 1
 	else:
 		print("登入成功!")
+		break
 
 
 
